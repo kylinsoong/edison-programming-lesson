@@ -1,0 +1,14 @@
+= Adison’s Programming Repository
+
+|===
+|ID |TYPE |LINK
+
+|01
+|Scratch
+|link:scratch/README.adoc[link]
+
+|02
+|Python
+|link:python/README.adoc[link]
+
+|===
