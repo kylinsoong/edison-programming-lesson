@@ -1,4 +1,4 @@
-= Adison’s Programming Repository
+= Edison’s Programming Repository
 
 |===
 |ID |TYPE |LINK

@@ -1,4 +1,4 @@
-= Adison's Scratch Repository
+= Edison's Scratch Repository
 
 == Flying Cat
 
